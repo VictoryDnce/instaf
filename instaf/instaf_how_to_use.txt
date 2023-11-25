@@ -1,0 +1,6 @@
+json formatýnda instagramdan talep edilen bilgiler geldikten sonra istenilen yere unzip yapýlýr.
+unzip yapilan klasorun içindeki followers_and_following ismindeki klasorun icinde bulunan 
+followers_1 ve following isimli dosyalar C:\ icine kopyalanir. instaf.exe dosyasida ayni yere
+tasinir ve calistirilir.
+
+C:\ icinde calisacak sekilde tasarlandi.
